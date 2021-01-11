@@ -1,6 +1,6 @@
-### Hi there, I'm Liem Nguyen
+## Hi there, I'm Liem Nguyen
 
-[My website](https://liemnguyen.netlify.app "Liem Nguyen")
+[Website](https://liemnguyen.netlify.app "Liem Nguyen")
 
 ## I'm a Junior Web Developer.
 
