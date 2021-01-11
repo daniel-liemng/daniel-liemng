@@ -38,3 +38,5 @@
 <img align="left" alt="Liem Ng GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=daniel-liemng&show_icons=true&hide_border=true" />
 
 </details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-liemng&layout=compact)](https://github.com/daniel-liemng)
