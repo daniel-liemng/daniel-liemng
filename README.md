@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=connector_mern&show-owner=true)](https://github.com/daniel-liemng/connector_mern)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=connector_mern&show_owner=true)](https://github.com/daniel-liemng/connector_mern)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hatchways&repo=team-dragonfruit)](https://github.com/hatchways/team-dragonfruit)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=student_registration_mern)](https://github.com/daniel-liemng/student_registration_mern)
 
