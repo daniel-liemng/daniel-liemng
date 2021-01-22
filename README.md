@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/daniel-liemng/connector_mern)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=wide-networking)](https://github.com/daniel-liemng/connector_mern)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
