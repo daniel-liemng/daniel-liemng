@@ -6,7 +6,7 @@
 
 - I'm currently looking for a job as a frontend, backend or fullstack web developer.
 - The stack I focus on is the MERN stack
-- My goal is landing a new job and improving my technical skills.
+- My goal is landing a new job, contributing to some interesting projects and improving my technical skills.
 
 ### Connect with me:
 
@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=connector_mern)](https://github.com/daniel-liemng/connector_mern)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=connector_mern&show-owner=true)](https://github.com/daniel-liemng/connector_mern)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hatchways&repo=team-dragonfruit)](https://github.com/hatchways/team-dragonfruit)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=student_registration_mern)](https://github.com/daniel-liemng/student_registration_mern)
 
