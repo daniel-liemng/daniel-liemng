@@ -35,7 +35,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=chat_socketio_react_node&show_owner=true)](https://github.com/daniel-liemng/chat_socketio_react_node)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=connector_mern&show_owner=true)](https://github.com/daniel-liemng/connector_mern)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hatchways&repo=team-dragonfruit)](https://github.com/hatchways/team-dragonfruit)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=student_registration_mern&show_owner=true)](https://github.com/daniel-liemng/student_registration_mern)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=student_registration_mern&show_owner=true)](https://github.com/daniel-liemng/student_registration_mern) 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
