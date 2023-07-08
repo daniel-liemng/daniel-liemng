@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=schoolboard_mern&show_owner=true)](https://github.com/daniel-liemng/schoolboard_mern)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=kitchen_shop_react_contentful&show_owner=true)](https://github.com/daniel-liemng/kitchen_shop_react_contentful)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=chat_socketio_react_node&show_owner=true)](https://github.com/daniel-liemng/chat_socketio_react_node)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=connector_mern&show_owner=true)](https://github.com/daniel-liemng/connector_mern)
