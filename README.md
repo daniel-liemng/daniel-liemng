@@ -1,12 +1,22 @@
-## Hi there, I'm Liem Nguyen
+### Hi there,
+### I'm Liem Nguyen
 
 [Portfolio Website](https://danielnguyen.vercel.app)
 
 ## I'm a Junior Web Developer.
 
-- I'm currently looking for a job as a frontend, backend or fullstack web developer.
+- I'm currently looking for a job as a frontend, backend or full-stack web developer.
 - The stack I focus on is the MERN stack
-- My goal is landing a new job, contributing to some interesting projects and improving my technical skills.
+- My goal is to land a new job, contribute to some interesting projects and improve my technical skills.
+
+## My Skills:
+
+- React.js | Next.js | Vue.js | Nuxt.js | Gatsby.js
+- TailwindCss | Styled-Components | Material UI | Chakra UI | Vuetify | Bootstrap
+- Node.js | Express | Django | Django Rest Framework
+- Prisma | Supabase | Firebase | GraphQL
+- MongoDB | MySQL | PostgreSQL
+- Contentful | Strapi | Sanity
 
 ### Connect with me:
 
