@@ -1,6 +1,6 @@
 ## Hi there, I'm Liem Nguyen
 
-[Portfolio Website](https://danielliemng.netlify.app "Liem Nguyen")
+[Portfolio Website](https://danielnguyen.vercel.app)
 
 ## I'm a Junior Web Developer.
 
