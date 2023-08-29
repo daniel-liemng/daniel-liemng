@@ -11,8 +11,14 @@
 
 ## My Skills:
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts, html, css, sass )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react, redux, nextjs, gatsby, angular, tailwind, materialui, bootstrap, styledcomponents	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs, express, django, graphql, prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb, supabase, mysql, firebase, postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode, github, heroku, netlify, gcp)](https://skillicons.dev)
+
 ![Static Badge](https://img.shields.io/badge/React.js-blue)
-https://img.shields.io/badge/
+
 
 - React.js | Next.js | Vue.js | Nuxt.js | Gatsby.js
 - TailwindCss | Styled-Components | Material UI | Chakra UI | Vuetify | Bootstrap
