@@ -6,16 +6,16 @@
 ## I'm a Junior Web Developer.
 
 - I'm currently looking for a job as a frontend, backend or full-stack web developer.
-- The stack I focus on is the MERN stack
+- The stack I focus on is the MERN stack - MongoDB, Express, Node and React.
 - My goal is to land a new job, contribute to some interesting projects and improve my technical skills.
 
 ## My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts, html, css, sass )](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react, redux, nextjs, gatsby, angular, tailwind, materialui, bootstrap, styledcomponents	)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs, express, django, graphql, prisma)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb, supabase, mysql, firebase, postgres)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode, github, heroku, netlify, gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,gatsby,angular,tailwind,materialui,bootstrap,styledcomponents	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,graphql,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,supabase,mysql,firebase,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,heroku,netlify,gcp)](https://skillicons.dev)
 
 ![Static Badge](https://img.shields.io/badge/React.js-blue)
 
