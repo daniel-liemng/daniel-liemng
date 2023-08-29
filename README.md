@@ -11,6 +11,8 @@
 
 ## My Skills:
 
+https://img.shields.io/badge/React.js-blue
+
 - React.js | Next.js | Vue.js | Nuxt.js | Gatsby.js
 - TailwindCss | Styled-Components | Material UI | Chakra UI | Vuetify | Bootstrap
 - Node.js | Express | Django | Django Rest Framework
