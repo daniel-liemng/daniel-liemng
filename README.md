@@ -4,7 +4,7 @@
 [Portfolio Website](https://danielnguyen.vercel.app)
 
 - I'm currently looking for a job as a frontend, backend or full-stack web developer.
-- The stack I focus on is the MERN stack - MongoDB, Express, Node and React.
+- The stack I focus on is the MERN stack - MongoDB, Express, Node, React and Next.js.
 - My goal is to land a new job, contribute to some interesting projects and improve my technical skills.
 
 ## My Skills:
