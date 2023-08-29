@@ -1,9 +1,7 @@
-### Hi there,
-### I'm Liem Nguyen
+## Hi there,
+## I'm Liem Nguyen, a Full-Stack Web Developer
 
 [Portfolio Website](https://danielnguyen.vercel.app)
-
-## I'm a Junior Web Developer.
 
 - I'm currently looking for a job as a frontend, backend or full-stack web developer.
 - The stack I focus on is the MERN stack - MongoDB, Express, Node and React.
@@ -14,10 +12,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,nextjs,gatsby,tailwind,materialui,bootstrap,styledcomponents,nodejs,express,django,graphql,prisma,mongodb,supabase,mysql,firebase,postgres,vscode,github,heroku,netlify,gcp&theme=dark&perline=12)](https://skillicons.dev)
 
 
-### Connect with me:
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)]([https://skillicons.dev](https://www.linkedin.com/in/daniel-liemng))
+## Connect with me:
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)]([https://skillicons.dev](https://www.linkedin.com/in/daniel-liemng)
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/daniel-liemng)
+
 
 <br/>
 
