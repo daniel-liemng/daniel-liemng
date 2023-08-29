@@ -16,7 +16,6 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/daniel-liemng)
 
 <br/>
-<br/>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=employee_react_django&show_owner=true)](https://github.com/daniel-liemng/employee_react_django) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=schoolboard_mern&show_owner=true)](https://github.com/daniel-liemng/schoolboard_mern)
@@ -24,12 +23,3 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=chat_socketio_react_node&show_owner=true)](https://github.com/daniel-liemng/chat_socketio_react_node)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=connector_mern&show_owner=true)](https://github.com/daniel-liemng/connector_mern)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hatchways&repo=team-dragonfruit)](https://github.com/hatchways/team-dragonfruit)
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-<!--START_SECTION:activity-->
-<img align="left" alt="Liem Ng GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=daniel-liemng&show_icons=true&hide_border=true" />
-
-</details>
