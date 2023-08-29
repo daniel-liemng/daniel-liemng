@@ -13,12 +13,7 @@
 
 
 ## Connect with me:
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)]([https://skillicons.dev](https://www.linkedin.com/in/daniel-liemng)
-
-
-
-<br/>
-
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/daniel-liemng)
 
 <br/>
 <br/>
