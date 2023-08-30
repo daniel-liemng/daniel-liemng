@@ -17,7 +17,7 @@
 
 <br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=job-search-next-prisma-supabase&show_owner=true)](https://github.com/daniel-liemng/job-search-next-prisma-supabase)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=daniel-liemng&repo=job-search-next-prisma-supabase&show_owner=true)](https://github.com/daniel-liemng/job-search-next-prisma-supabase)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=schoolboard_mern&show_owner=true)](https://github.com/daniel-liemng/schoolboard_mern)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=kitchen_shop_react_contentful&show_owner=true)](https://github.com/daniel-liemng/kitchen_shop_react_contentful)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-liemng&repo=employee_react_django&show_owner=true)](https://github.com/daniel-liemng/employee_react_django) 
