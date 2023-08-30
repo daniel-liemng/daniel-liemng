@@ -1,5 +1,5 @@
 ## Hi there,
-## I'm Liem Nguyen, a Full-Stack Web Developer
+## I'm Liem Nguyen, a Full-Stack Web Developer 
 
 [Portfolio Website](https://danielnguyen.vercel.app)
 
